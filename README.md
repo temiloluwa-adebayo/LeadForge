@@ -29,6 +29,11 @@ LeadForge is a **multi-user SaaS lead generation platform** that converts a mult
 
 **Built for:** Digital agencies, freelancers, and sales teams who need a consistent, automated outbound pipeline.
 
+## Screenshots
+
+![Dashboard](assets/Screenshot%202026-03-20%20170210.png)
+![Leads Table](assets/Screenshot%202026-03-20%20170223.png)
+![Mobile View](assets/Screenshot%202026-03-20%20170236.png)
 ---
 
 ## The Problem It Solves
@@ -252,4 +257,4 @@ All other integrations (n8n webhook, Google APIs, ScrapingBee) are configured pe
 ## Author
 
 **Temiloluwa Adebayo** — AI Software Engineer  
-[GitHub](https://github.com/temiloluwa-adebayo) · [LinkedIn](https://linkedin.com/in/temiloluwa-adebayo)
+[GitHub](https://github.com/temiloluwa-adebayo) · [LinkedIn](https://linkedin.com/in/temiloluwa-adebayo-4843ba377)
